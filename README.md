@@ -1,7 +1,7 @@
 # WeatherProject-OpenAPI
 
 ### 📖 프로젝트 개요
-WeatherProject-OpenAPI는 공공 API를 사용하여 날씨 정보를 제공하는 웹으로, 사용자는 국내의 다양한 도시의 현재 날씨와 기상 정보를 조회할 수 있습니다.<br>
+WeatherProject-OpenAPI는 공공 API를 사용하여 날씨 정보를 제공하는 웹으로, 사용자는 국내의 다양한 도시의 현재 날씨와 기상 정보를 조회할 수 있습니다.<br/><br/>
 
 ### 🚀 프로젝트 목표
 - 국내 도시의 실시간 날씨 정보를 제공
