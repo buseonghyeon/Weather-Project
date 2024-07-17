@@ -38,8 +38,6 @@ WeatherProject-OpenAPI는 공공 API를 사용하여 날씨 정보를 제공하�
 <img width=100% src="https://github.com/buseonghyeon/WeatherProject-OpenAPI/blob/main/images/weather_detail.png"><br/>
 - **온도, 습도, 풍속:** 검색한 도시의 상세 날씨 정보(온도, 습도, 풍속 등)를 제공합니다.<br/><br/>
 
-## 🎧 <a href="https://youtu.be/프로젝트시연영상링크">Demo Video</a>
-<br/><br/>
 
 ## ⚙️ 프로젝트 설치 및 실행 방법
 
