@@ -1,0 +1,125 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E0F8F7;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+@font-face {
+    font-family: 'TmonMonsori';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/TmonMonsori.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BMJUA';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+table {
+    border-radius: 5px;
+    border-collapse: collapse;
+    width: 70%;
+    margin: 20px auto;
+}
+th, td {
+    border: 2px solid #aaa;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: #f8f8f8;
+    font-family: 'TmonMonsori', Arial, sans-serif;
+}
+td {
+    font-family: 'BMJUA', Arial, sans-serif;
+}
+/* 짝수 행 */
+tbody tr:nth-child(even) {
+    background-color: #b4f8ba;
+}
+
+/* 홀수 행 */
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+/* 테이블 헤더 스타일 */
+th {
+    background-color: #b4f8ba;
+}
+a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+#searching-result {
+    margin-top: 100px;
+    font-size: 50px;
+    color: #333;
+    font-family: 'TmonMonsori', Arial, sans-serif;
+}
+/* 푸터 스타일 */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+/* 링크 스타일 */
+a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #242924;
+    color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 16px;
+    transition: background-color 0.5s ease;
+    font-family: 'TmonMonsori', Arial, sans-serif;
+}
+a:hover {
+    background-color: #205e20;
+}
+#sun {
+    position: fixed; /* 고정 위치 설정 */
+    top: 0; /* 아래쪽에 위치 */
+    left: 0; /* 왼쪽 */
+    z-index: -1; /* 이미지를 뒤쪽으로 배치 */
+    width: 400px;
+    height: auto;
+}
+
+#tree {
+    position: fixed; /* 고정 위치 설정 */
+    bottom: 0; /* 아래쪽에 위치 */
+    left: 0; /* 왼쪽에 위치 */
+    z-index: -1; /* 이미지를 뒤쪽으로 배치 */
+}
+#tree2 {
+    position: fixed; /* 고정 위치 설정 */
+    bottom: 0; /* 아래쪽에 위치 */
+    right: 0; /* 오른쪽 */
+    z-index: -1; /* 이미지를 뒤쪽으로 배치 */
+}
+#rainbow {
+    position: fixed; /* 고정 위치 설정 */
+    top: 0; /* 아래쪽에 위치 */
+    left: 12.5%;
+    width: 75%;
+    height: auto;
+    z-index: -2; /* 이미지를 뒤쪽으로 배치 */
+    opacity: 0.5;
+}
+#waterfall {
+    position: fixed; /* 고정 위치 설정 */
+    bottom: -100px; /* 아래쪽에 위치 */
+    left: -120px; /* 오른쪽 */
+    z-index: -2; /* 이미지를 뒤쪽으로 배치 */
+    width: 700px;
+    height: auto;
+    opacity: 0.6;
+}
