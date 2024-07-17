@@ -30,12 +30,12 @@ WeatherProject-OpenAPI는 공공 API를 사용하여 날씨 정보를 제공하�
 
 ## ✨ 주요 기능 및 이미지
 📌 메인 페이지<br/>
-<img width=100% src="https://github.com/buseonghyeon/WeatherProject-OpenAPI/blob/main/images/main_page.png"><br/>
+<img width=100% src="https://github.com/buseonghyeon/Weather-Project/blob/main/src/main/webapp/resources/img/main.png""><br/>
 - **도시 검색:** 사용자가 도시 이름을 입력하여 해당 도시의 날씨 정보를 조회할 수 있습니다.
 <br/><br/>
 
 📌 날씨 상세 정보<br/>
-<img width=100% src="https://github.com/buseonghyeon/WeatherProject-OpenAPI/blob/main/images/weather_detail.png"><br/>
+<img width=100% src="https://github.com/buseonghyeon/Weather-Project/blob/main/src/main/webapp/resources/img/weather_search.png"><br/>
 - **온도, 습도, 풍속:** 검색한 도시의 상세 날씨 정보(온도, 습도, 풍속 등)를 제공합니다.<br/><br/>
 
 
