@@ -17,7 +17,7 @@ WeatherProject-OpenAPI는 공공 API를 사용하여 날씨 정보를 제공하�
 <br/><br/>
 
 - ## 🗺 기술 설계도
-(여기에 기술 설계도를 추가할 수 있습니다)<br/><br/>
+<img src = "https://github.com/buseonghyeon/Weather-Project/blob/main/src/main/webapp/resources/img/arc.png"><br/><br/>
 
 ### 💻 기술 스택
 - **OS:** &nbsp;&nbsp;![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
