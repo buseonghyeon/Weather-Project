@@ -59,7 +59,7 @@ WeatherProject-OpenAPI는 공공 API를 사용하여 날씨 정보를 제공하�
     ./gradlew build
     ```
 
-### 실행
+### 실행 방법
 
 1. 애플리케이션을 실행합니다:
     ```sh
